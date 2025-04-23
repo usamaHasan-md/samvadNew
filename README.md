@@ -1,1 +1,1 @@
-samvad this is campaign project chhatishgarh government
+samvad this is campaign project of chhatishgarh government technology laravel 
