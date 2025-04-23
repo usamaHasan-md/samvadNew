@@ -1,2 +1,1 @@
-# samvadNew
-this is a chhatisgarh governmaent campaign project 
+samvad this is campaign project chhatishgarh government
